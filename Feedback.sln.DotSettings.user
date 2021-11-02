@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=54aa94f8_002D58e2_002D4138_002Db23c_002Db5db5bbf3b26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AskFeedbackDetail_Error #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::13E693ED-7412-4A93-A2E7-E805B8215FAE::.NETCoreApp,Version=v3.1::OKRFeedbackService.UnitTest.Controller.FeedbackControllerUnitTest.AskFeedbackDetail_Error&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d433149c_002D61f1_002D490c_002Db0a5_002Ddab987a8134d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AskFeedbackDetail_Error" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::13E693ED-7412-4A93-A2E7-E805B8215FAE::.NETCoreApp,Version=v3.1::OKRFeedbackService.UnitTest.Controller.FeedbackControllerUnitTest.AskFeedbackDetail_Error&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

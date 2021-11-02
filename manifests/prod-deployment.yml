@@ -1,0 +1,24 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: okrfeedback 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: okrfeedback
+  template:
+    metadata:
+      labels:
+        app: okrfeedback 
+    spec:
+      containers:
+        - name: okrfeedback 
+          image: unlockokrregistryprod.azurecr.io/okrfeedback
+          ports:
+          - containerPort: 80
+          env:
+          - name: "ASPNETCORE_ENVIRONMENT"
+            value: "Production"
+          - name: "ASPNETCORE_FORWARDEDHEADERS_ENABLED"
+            value: "true"
